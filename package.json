@@ -19,7 +19,8 @@
     "broccoli-funnel": "^1.2.0",
     "dropzone": "^5.4.0",
     "broccoli-merge-trees": "^2.0.0",
-    "ember-cli-babel": "^6.0.0"
+    "ember-cli-babel": "^6.0.0",
+    "ember-cli-htmlbars": "^2.0.1"
   },
   "author": "Ricardo Mercado <hello@RicardoAMercado.com>",
   "license": "MIT",
